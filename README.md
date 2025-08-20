@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusukedao</h1>
-<h3 align="center">A developer from Japan</h3>
+<h3 align="center">A developer from Japan 17 Years Old. 2008/6/10 birth</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
