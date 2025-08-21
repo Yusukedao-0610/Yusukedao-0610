@@ -47,9 +47,6 @@
 </p>
 <br><br>
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=yusukedao-0610](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusukedao-0610)&show_icons=true&locale=en&layout=compact" alt="yusukedao-0610" />
-</p>
 
 ---
 
@@ -62,10 +59,3 @@
 | **TypeScript** | **10 %** |
 | **Java** | **5 %** |
 | **C#** | **5 %** |
-<p align="center">
-  <img src="https://progress-bar.dev/50?title=C%2FC%2B%2B&width=300&color=blue" alt="C/C++ 50%" />
-  <img src="https://progress-bar.dev/30?title=JavaScript&width=300&color=yellow" alt="JavaScript 30%" />
-  <img src="https://progress-bar.dev/10?title=TypeScript&width=300&color=green" alt="TypeScript 10%" />
-  <img src="https://progress-bar.dev/5?title=Java&width=300&color=red" alt="Java 5%" />
-  <img src="https://progress-bar.dev/5?title=C%23&width=300&color=purple" alt="C# 5%" />
-</p>
