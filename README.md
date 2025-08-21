@@ -62,10 +62,6 @@
 | **TypeScript** | **10 %** |
 | **Java** | **5 %** |
 | **C#** | **5 %** |
-
-*You can also visualise the same data with a simple bar graphic (optional):*
-
-```html
 <p align="center">
   <img src="https://progress-bar.dev/50?title=C%2FC%2B%2B&width=300&color=blue" alt="C/C++ 50%" />
   <img src="https://progress-bar.dev/30?title=JavaScript&width=300&color=yellow" alt="JavaScript 30%" />
