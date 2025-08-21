@@ -48,9 +48,9 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusukedao-0610&show_icons=true&locale=en&layout=compact" alt="yusukedao-0610" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=yusukedao-0610](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusukedao-0610)&show_icons=true&locale=en&layout=compact" alt="yusukedao-0610" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusukedao-0610)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📊 Most used languages (your own breakdown)
