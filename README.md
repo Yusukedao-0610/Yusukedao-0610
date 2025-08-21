@@ -44,13 +44,17 @@
   <a href="https://www.buymeacoffee.com/yusukedao">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
+  <!-- Patreon button (you can adjust the image URL if you prefer a different style) -->
+  <a href="https://www.patreon.com/yusukedao" target="_blank" style="margin-left:10px;">
+    <img src="https://camo.githubusercontent.com/2c8c5c5e4f7e7c2c0d8c7d0e2b2c3d3f3c2e5a6b/68747470733a2f2f7777772e70617472656f6e2e636f6d2f696d616765732f627574746f6e732f7061747265656e2d626c75652e706e67"
+         alt="Patreon" height="50" width="210"/>
+  </a>
 </p>
 <br><br>
 
-
 ---
 
-## 📊 Most used languages (your own breakdown)
+## 📊 Most used languages 
 
 | Language | Percentage |
 |----------|------------|
