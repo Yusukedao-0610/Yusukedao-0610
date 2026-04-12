@@ -1,5 +1,5 @@
 <wh1 align="center">Hi 👋, I'm Yusuke Ishikawa.石川　佑輔といいます。日本の友達からはゆうくん海外の友達からはyusuって呼ばれてます　</h1>
-<h3 align="center">17 y/o Developer from Japan</h3>
+<h3 align="center">17 y/o(歳) Developer from Japan</h3>
 
 <p align="center">
 Web / Backend / Low-level / Security
