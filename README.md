@@ -1,4 +1,4 @@
-<wh1 align="center">Hi 👋, I'm Yusukedao</h1>
+<wh1 align="center">Hi 👋, I'm Yusuke Ishikawa.石川　佑輔といいます。日本の友達からはゆうくん海外の友達からはyusuって呼ばれてます　</h1>
 <h3 align="center">17 y/o Developer from Japan</h3>
 
 <p align="center">
@@ -42,13 +42,12 @@ Web / Backend / Low-level / Security
 
 ---
 
-## 🚀 Main Focus
+## 🚀 Main Focus/今頑張ってること
 
-- Backend Development (Node.js / API)
-- Low-level Programming (C/C++ / Kernel)
-- System & Performance Optimization
-- Security / Malware Analysis
-
+- Backend: Node.js / API 設計・実装
+- Low-level: C/C++ / カーネル・ドライバ開発
+- System: パフォーマンス最適化・リソース制御
+- Security: マルウェア解析・挙動調査
 ---
 
 ## 🔗 Connect with me
@@ -83,11 +82,14 @@ Web / Backend / Low-level / Security
 
 ## 🧩 Featured Projects
 
-- AI Vision Automation Tool (with hardware control)
-- Web Frontend For Selling Products 
-- Web Backend System (Node.js + API)
-- Low-level / Driver-related projects
-
+- **AI Vision 自動化ツール**  
+  画像認識 × ハードウェア制御の連携ツール
+- **商品販売サイト（フロントエンド）**  
+  使いやすさを意識したレスポンシブ設計
+- **バックエンドシステム（Node.js + API）**  
+  拡張性と保守性を両立したサーバー実装
+- **低レイヤー・ドライバ関連**  
+  カーネルレベルでの制御・最適化に挑戦
 ---
 
 ## Contact/連絡先
