@@ -39,7 +39,14 @@ Web / Backend / Low-level / Security
 なお、安全性の観点から通信先のURLなどの詳細は公開していませんが、該当ドメインについては既に適切な窓口へ通報済みです。。
 
 現在は実務経験を積みながら、より実践的なスキルを高めています。
-
+主に使用してるIDE
+Coding用
+Vscode
+Visual studio 2022/2026
+notepad++
+解析用
+Ghidra
+IDA pro
 ---
 
 ## 🚀 Main Focus/今頑張ってること
