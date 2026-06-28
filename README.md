@@ -1,5 +1,10 @@
-<wh1 align="center">Hi 👋, I'm Yusuke Ishikawa.石川　佑輔といいます。日本の友達からはゆうくん海外の友達からはyusuって呼ばれてます　</h1>
-<h3 align="center">18 y/o(歳) Developer from Japan</h3>
+<h1 align="center">
+Hi 👋 I'm Yusuke Ishikawa（石川 佑輔）
+</h1>
+
+<h3 align="center">
+18 y/o Developer from Japan
+</h3>
 
 <p align="center">
 Web / Backend / Low-level / Security
@@ -8,98 +13,83 @@ Web / Backend / Low-level / Security
 ---
 
 ## 🧠 About Me
-開発は完全に独学です。
-プログラミング自体には12歳頃からテレビをきっかけに興味を持ち、ノートパソコンで個人的に触り始めました。
 
-その後、AIツールが普及し始めた2022年頃から本格的に学習を進め、13〜14歳の頃にAIを活用しながら開発スキルを体系的に身につけてきました。
+独学で開発を学んでいます。
 
-現在は実際に動くプロジェクトの開発や、低レイヤー領域・バックエンドなど幅広い分野に取り組んでいます。
+12歳頃からプログラミングに興味を持ち、ノートPCで個人的な開発や検証を始めました。
+その後、AIツールや技術資料も活用しながら継続して学習し、現在は実際に動くプロジェクト開発や、低レイヤー・バックエンド領域を中心に取り組んでいます。
 
-- C/C++, JavaScript, TypeScript を中心に開発  
-- Webアプリの設計〜バックエンドAPIまで対応可能  
-- Linuxでのインフラ構築経験あり  
-- Windowsでカーネルドライバなど低レイヤー開発  
-- QEMU + KVM を拡張し、VM検知を回避したマルウェア解析環境を構築
-- EFIレベルでの低レイヤー開発経験（ブートプロセスやOS起動前環境の理解など)
-低レイヤー分野に興味を持ったきっかけは、身近なトラブル対応でした。
-兄のPCの動作が極端に重くなり、原因を調べるためにタスクマネージャーを確認したところ、不審なプロセスが複数動作しており、一時フォルダ（Temp）内に大量の実行ファイル（.exe）が存在していることに気づきました。
+普段は C/C++、JavaScript、TypeScript を使うことが多く、Webアプリケーションからシステム寄りの開発まで幅広く触れています。
 
-そこで、これらのプログラムの解析を行いました。
-まず 静的解析（プログラムを実行せずに中身を調べる手法）として、IDA Proを使用し、バイナリを逆アセンブルして処理内容を確認しました。具体的には、どのAPIが呼ばれているかや、不審な処理フロー（ループや通信処理など）を読み取ることで、プログラムの挙動を把握しました。
+### Interests / Experience
 
-次に、動的解析（実際にプログラムを動かしながら挙動を観察する手法）として、NetLimiterを用いて通信の流れを監視し、外部サーバとの接続やデータ送信の有無を確認しました。
+* C/C++, JavaScript, TypeScript
+* Webアプリケーション設計・バックエンド開発
+* Linux 環境での構築・運用
+* Windows での低レイヤー・ドライバ関連の検証
+* 仮想環境・システム内部動作の調査
+* セキュリティ・マルウェア解析への興味
 
-その結果、このプログラムは暗号通貨マイニング（ビットコインマイナー）を行うだけでなく、PC内の情報を収集し外部に送信する機能を持つマルウェアであることを特定しました。
+低レイヤー分野に興味を持ったきっかけは、身近なPCトラブルでした。
 
-この経験をきっかけに、プログラムがどのようにOS上で動作しているのか、メモリやプロセスがどのように管理されているのかといった、より低レイヤーの仕組みに興味を持つようになりました。
+原因調査の中で、OS・メモリ・プロセス・実行ファイルの動作に関心を持ち、静的解析や動的解析を通してプログラムの挙動を調べる経験をしました。
 
-現在はその理解を深めるために、QEMU + KVM（仮想マシン環境）をベースに、マルウェアが仮想環境であることを検知できないように調整しながら、ホストPC側から仮想マシン内のメモリをリアルタイムで読み取り・解析できる仕組みを研究・開発しています。
-（※一部のマルウェアは仮想環境だと判断すると動作を変えるため、その回避が必要になります）
+その経験から、現在は仮想化技術やシステム内部の理解を深める目的で、QEMU + KVM を用いた解析環境の研究や検証を行っています。
 
-なお、安全性の観点から通信先のURLなどの詳細は公開していませんが、該当ドメインについては既に適切な窓口へ通報済みです。。
-
-現在は実務経験を積みながら、より実践的なスキルを高めています。
----
-主に使用してるIDE
-Coding用
-Vscode
-Visual studio 2022/2026
-notepad++
-解析用
-Ghidra
-IDA pro
-
-## 🚀 Main Focus/今頑張ってること
-
-- Backend: Node.js / API 設計・実装
-- Low-level: C/C++ / カーネル・ドライバ開発
-- System: パフォーマンス最適化・リソース制御
-- Security: マルウェア解析・挙動調査
----
-
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://www.youtube.com/@yusukedao75?feature=shared" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-         height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/e9wh2hvREE" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-         height="30" width="40" />
-  </a>
-</p>
+安全性や再現性を意識しながら、OS・仮想化・低レイヤー技術への理解を深めています。
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Main Environment
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-</p>
+### Coding
+
+* VS Code
+* Visual Studio 2022
+* Notepad++
+
+### Analysis / Research
+
+* Ghidra
+* IDA Pro
+
+---
+
+## 🚀 Current Focus
+
+* Backend: Node.js / API Design
+* Low-level: C/C++ / Driver & System Development
+* System: Performance & Resource Management
+* Security: Malware Analysis & Behavioral Research
 
 ---
 
 ## 🧩 Featured Projects
 
-- **AI Vision 自動化ツール**  
-  画像認識 × ハードウェア制御の連携ツール
-- **商品販売サイト（フロントエンド）**  
-  使いやすさを意識したレスポンシブ設計
-- **バックエンドシステム（Node.js + API）**  
-  拡張性と保守性を両立したサーバー実装
-- **低レイヤー・ドライバ関連**  
-  カーネルレベルでの制御・最適化に挑戦
+* **AI Vision Automation**
+  画像認識とハードウェア制御を組み合わせた実験・開発
+
+* **Frontend Development**
+  レスポンシブ設計を意識したUI実装
+
+* **Backend Systems**
+  拡張性・保守性を意識したAPI開発
+
+* **Low-level Research**
+  システム内部や仮想環境の検証
+
 ---
 
-## Contact/連絡先
+## 🔗 Connect
 
-yusuke20080610@gmail.com
-Discord yusukedao
+YouTube
+https://www.youtube.com/@yusukedao75
+
+Discord
+yusukedao
+
+---
+
+## 📫 Contact
+
+[yusuke20080610@gmail.com](mailto:yusuke20080610@gmail.com)
